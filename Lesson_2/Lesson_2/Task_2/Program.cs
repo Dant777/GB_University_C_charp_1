@@ -78,6 +78,8 @@ namespace Task_2
                 case 12:
                     Console.WriteLine("Выбранный месяц Декабрь");
                     break;
+                default:
+                    break;
             }
             Console.ReadKey();
 
