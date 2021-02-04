@@ -1,0 +1,7 @@
+D:\YandexDisk\Обучение\GeekBrain\C#_University_lvl1\GB_University_C_charp_1\Lesson_6\Lesson_6\Lesson_6\bin\Debug\Lesson_6.exe.config
+D:\YandexDisk\Обучение\GeekBrain\C#_University_lvl1\GB_University_C_charp_1\Lesson_6\Lesson_6\Lesson_6\bin\Debug\Lesson_6.exe
+D:\YandexDisk\Обучение\GeekBrain\C#_University_lvl1\GB_University_C_charp_1\Lesson_6\Lesson_6\Lesson_6\bin\Debug\Lesson_6.pdb
+D:\YandexDisk\Обучение\GeekBrain\C#_University_lvl1\GB_University_C_charp_1\Lesson_6\Lesson_6\Lesson_6\obj\Debug\Task.csprojAssemblyReference.cache
+D:\YandexDisk\Обучение\GeekBrain\C#_University_lvl1\GB_University_C_charp_1\Lesson_6\Lesson_6\Lesson_6\obj\Debug\Task.csproj.CoreCompileInputs.cache
+D:\YandexDisk\Обучение\GeekBrain\C#_University_lvl1\GB_University_C_charp_1\Lesson_6\Lesson_6\Lesson_6\obj\Debug\Lesson_6.exe
+D:\YandexDisk\Обучение\GeekBrain\C#_University_lvl1\GB_University_C_charp_1\Lesson_6\Lesson_6\Lesson_6\obj\Debug\Lesson_6.pdb
